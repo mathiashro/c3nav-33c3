@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Freifunk",
+        "en": "Freifunk"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [174.25, 103.12],
+                [166.25, 103.12],
+                [166.38, 115.62],
+                [174.0, 115.5],
+                [174.25, 103.12]
+            ]
+        ]
+    }
+}
